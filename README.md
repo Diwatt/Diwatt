@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Diwatt
-- 👀 I’m interested in Javascript/TypeScript at the moment.
-- 🌱 I’m currently learning functional programing through NodeJS backend framework, bundling tools in a deeper way 👋  (how to bundle and distribute a library, how to bundle properly a react app, etc..) 
+- 👋 Hi, I’m @Diwatt i'm senior backend/frontend with good xp on symfony/php et many js front framework
+- 👀 I’m interested in Javascript/TypeScript at the moment
+- 🌱 I’m currently learning functional programing through NodeJS backend framework, bundling tools in a deeper way 😓 (how to bundle and distribute a library, how to bundle properly a react app, etc..) 
 - 📫 How to reach me on my mail florian.roy@gmail.com
 
 <!---
